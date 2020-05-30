@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\MyPC\Documents\Ayu Rohmah Maulida\Prak PBO\Eclipse\.metadata\.plugins\org.eclipse.jdt.core
+2751641338.index
+1365300679.index
+2159472188.index
